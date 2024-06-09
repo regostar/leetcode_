@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/regostar/leetcode_/tree/master/0567-permutation-in-string) |
 # String
 |  |
@@ -18,3 +19,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/regostar/leetcode_/tree/master/0567-permutation-in-string) |
+# Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
+# Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
+# Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
