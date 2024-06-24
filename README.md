@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/regostar/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/regostar/leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/regostar/leetcode_/tree/master/0567-permutation-in-string) |
 # Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/regostar/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/regostar/leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/regostar/leetcode_/tree/master/0747-min-cost-climbing-stairs) |
 # Dynamic Programming
@@ -81,3 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/regostar/leetcode_/tree/master/0347-top-k-frequent-elements) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/regostar/leetcode_/tree/master/0128-longest-consecutive-sequence) |
