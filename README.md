@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/regostar/leetcode_/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
+| [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
