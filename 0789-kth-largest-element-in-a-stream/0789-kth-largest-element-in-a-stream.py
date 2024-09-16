@@ -3,7 +3,7 @@ class KthLargest:
     min heap
     we are only adding and never removing
     we only need min heap of k elements
-
+    A min-heap of size K will always have the smallest element at the root, which will be the Kth largest element among all elements seen so far.
     """
 
     def __init__(self, k: int, nums: List[int]):
