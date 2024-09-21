@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0552-student-attendance-record-ii](https://github.com/regostar/leetcode_/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
