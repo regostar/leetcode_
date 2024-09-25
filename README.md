@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -207,4 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
