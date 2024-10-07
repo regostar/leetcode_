@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/regostar/leetcode_/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 ## Greedy
