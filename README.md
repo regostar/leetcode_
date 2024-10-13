@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/regostar/leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/regostar/leetcode_/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/regostar/leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/regostar/leetcode_/tree/master/0300-longest-increasing-subsequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/regostar/leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/regostar/leetcode_/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/regostar/leetcode_/tree/master/0152-maximum-product-subarray) |
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
