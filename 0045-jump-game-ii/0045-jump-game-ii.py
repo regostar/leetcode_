@@ -17,9 +17,9 @@ class Solution:
         print("new nums = ", nums)
         # guaranteed that you can reach nums[n-1]
         i = 0
-        while i < n:
-            if i >= n-1:
-                break
+        while i < n - 1:
+            # if i >= n-1:
+            #     break
             min_jumps += 1
             i = nums[i]
 
