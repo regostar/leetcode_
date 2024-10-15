@@ -18,6 +18,8 @@ class Solution:
         # guaranteed that you can reach nums[n-1]
         i = 0
         while i < n - 1:
+            # n-1 because test case > [0]
+            # i = n-1 then terminate
             min_jumps += 1
             i = nums[i]
 
