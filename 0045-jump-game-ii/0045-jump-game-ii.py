@@ -24,14 +24,3 @@ class Solution:
             i = nums[i]
 
         return min_jumps
-
-
-
-        min_steps = 0
-        for i, ele in enumerate(nums):
-            if ele >= n - 1 - i:
-                # can reach end
-                min_steps = min_steps + 1
-                return min_steps
-            
-        
