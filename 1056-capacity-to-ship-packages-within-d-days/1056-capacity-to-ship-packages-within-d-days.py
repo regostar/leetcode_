@@ -5,9 +5,7 @@ class Solution:
         # we need to find the minimum W to minimize the ship size and cost
         # at the same time ship all containers in 'days' time
 
-        # we need to divide the sum to sum / days if possible
-        # every day we can ship max of sum / days
-        # but not possible that the weights will sum to it exactly
+        # https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/solutions/769698/python-clear-explanation-powerful-ultimate-binary-search-template-solved-many-problems
         def feasible(capacity) -> bool:
             _no_of_days = 1
             total = 0
