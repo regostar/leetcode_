@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
+| [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/regostar/leetcode_/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
 ## Greedy
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
+| [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 ## Union Find
 |  |
 | ------- |
