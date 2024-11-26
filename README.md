@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/regostar/leetcode_/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
+| [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Counting
 |  |
 | ------- |
