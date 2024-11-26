@@ -22,6 +22,7 @@ class Solution:
         # count this
         unique_c = set()
         substr_count = 1
+        # initialize to 1 base case
 
         for each in s:
             if each in unique_c:
