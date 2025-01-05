@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/regostar/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/regostar/leetcode_/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/regostar/leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/regostar/leetcode_/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/regostar/leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/regostar/leetcode_/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/regostar/leetcode_/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/regostar/leetcode_/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/regostar/leetcode_/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
