@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/regostar/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
+| [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/regostar/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 ## Union Find
