@@ -3,6 +3,13 @@ class Solution:
         # we need 4 loops
         # right down left up in this order
         # everytime we switch to next loop, the boundaries must be updated
+        # Time complexity O(M⋅N)
+        """
+        move right: (row, col + 1)
+        move downwards: (row + 1, col)
+        move left: (row, col - 1)
+        move upwards: (row - 1, col)
+        """
         spiral = []
         rows, cols = len(matrix), len(matrix[0])
         # bounds -
