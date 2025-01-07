@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/regostar/leetcode_/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/regostar/leetcode_/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/regostar/leetcode_/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/regostar/leetcode_/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/regostar/leetcode_/tree/master/1585-the-kth-factor-of-n) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
