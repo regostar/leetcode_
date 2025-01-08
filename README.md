@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/regostar/leetcode_/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Number Theory
 |  |
 | ------- |
