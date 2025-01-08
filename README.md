@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/regostar/leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/regostar/leetcode_/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/regostar/leetcode_/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
 ## Number Theory
 |  |
 | ------- |
