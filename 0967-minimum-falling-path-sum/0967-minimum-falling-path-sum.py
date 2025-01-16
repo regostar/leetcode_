@@ -1,5 +1,6 @@
 class Solution:
     def minFallingPathSum(self, matrix):
+        # bottom up
         n = len(matrix)
 
         # Start from the second-to-last row and move upwards
