@@ -1,38 +1,35 @@
-from typing import List
-
 class Solution:
-    def minFallingPathSum(self, matrix: List[List[int]]) -> int:
-        max_row_i = len(matrix)
-        max_col_i = len(matrix[0])
+    # TOP DOWN 
+    def minFallingPathSum(self, matrix):
+        import math
 
-        # Memoization table to store results of subproblems
-        memo = [[None for _ in range(max_col_i)] for _ in range(max_row_i)]
+        # Initialize memoization table
+        rows, cols = len(matrix), len(matrix[0])
+        memo = [[None for _ in range(cols)] for _ in range(rows)]
 
-        def compute_path_sum(row, col) -> int:
-            # Base case: if out of bounds, return a very large value
-            if col < 0 or col >= max_col_i:
-                return float('inf')
-            
-            # Base case: when we reach the last row, return the value at that position
-            if row == max_row_i - 1:
+        # Function to find the minimum falling path sum starting from (row, col)
+        def findMinFallingPathSum(row, col):
+            # Base cases
+            if col < 0 or col >= cols:  # If column index is out of bounds
+                return math.inf
+            if row == rows - 1:  # If we reached the last row
                 return matrix[row][col]
-            
-            # If already computed, return the memoized value
+
+            # Check if the result is already calculated
             if memo[row][col] is not None:
                 return memo[row][col]
 
-            # Recursive case: calculate the minimum path sum by moving to one of the three possible directions
-            down_left = compute_path_sum(row + 1, col - 1)
-            down = compute_path_sum(row + 1, col)
-            down_right = compute_path_sum(row + 1, col + 1)
+            # Calculate the minimum falling path sum from the current position
+            left = findMinFallingPathSum(row + 1, col - 1)
+            middle = findMinFallingPathSum(row + 1, col)
+            right = findMinFallingPathSum(row + 1, col + 1)
 
-            # Current cell value + min of the three possible next steps
-            memo[row][col] = matrix[row][col] + min(down_left, down, down_right)
+            memo[row][col] = min(left, middle, right) + matrix[row][col]
             return memo[row][col]
 
-        # Start from any cell in the first row and find the minimum falling path sum
-        min_path_sum = float('inf')
-        for col in range(max_col_i):
-            min_path_sum = min(min_path_sum, compute_path_sum(0, col))
-        
-        return min_path_sum
+        # Start DFS from each cell in the first row and find the minimum
+        minFallingSum = math.inf
+        for startCol in range(cols):
+            minFallingSum = min(minFallingSum, findMinFallingPathSum(0, startCol))
+
+        return minFallingSum
