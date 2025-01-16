@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/regostar/leetcode_/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/regostar/leetcode_/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/regostar/leetcode_/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/regostar/leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/regostar/leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/regostar/leetcode_/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/regostar/leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
