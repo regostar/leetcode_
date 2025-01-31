@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/regostar/leetcode_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/regostar/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/regostar/leetcode_/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 ## Number Theory
 |  |
 | ------- |
