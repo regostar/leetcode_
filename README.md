@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/regostar/leetcode_/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/regostar/leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 ## Hash Table
