@@ -1,10 +1,4 @@
-# # Definition of the Interval class
-# class Interval(object):
-#     def __init__(self, start, end):
-#         self.start = start
-#         self.end = end
 
-# The Solution class with the canAttendMeetings method
 class Solution:
     def canAttendMeetings(self, intervals):
         
