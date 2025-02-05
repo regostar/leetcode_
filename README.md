@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/regostar/leetcode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/regostar/leetcode_/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
