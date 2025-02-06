@@ -32,21 +32,14 @@ class Solution:
                     # round off 
                     num = max_limit
                     return num
-                    # break
                 # num * 10 <= -2^31
                 elif sign == '-' and (-num<= min_limit/10 or  -num * 10 <=min_limit +int(each)):
                     num = min_limit
-                    return num
-                    # print("num = min_limit", num)
-
-                    
+                    return num                    
                 num = num * 10 + int(each)
             else:
                 break
-        # print("after num = ", num, "min_limit = ", min_limit)
-        # print("after num = ", num ==min_limit)
-        # print("after num = ", num ==max_limit)
-        # if num != max_limit and num != min_limit:
+
         if sign == '-':
                 return -num
         return num
