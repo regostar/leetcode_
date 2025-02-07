@@ -5,16 +5,20 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        # what about equal?
-        # USE RECURSION
-        def validate(node, low=-math.inf, high = math.inf):
-            # empty tree is valid BST
-            if not node:
-                return True
-            if node.val <= low or node.val >= high:
+    def isValidBST(self, root: TreeNode) -> bool:
+        if not root:
+            return True
+
+        stack = [(root, -math.inf, math.inf)]
+        while stack:
+            root, lower, upper = stack.pop()
+            if not root:
+                continue
+            val = root.val
+            if val <= lower or val >= upper:
                 return False
-            return validate(node.right, node.val, high) and validate(node.left, low, node.val)
-        return validate(root)
+            stack.append((root.right, val, upper))
+            stack.append((root.left, lower, val))
+        return True
             
         
