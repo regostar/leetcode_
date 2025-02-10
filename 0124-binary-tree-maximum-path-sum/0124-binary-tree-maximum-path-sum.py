@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        max_path = -math.inf
+        max_path = root.val
 
         # post order traversal of subtree rooted at node
         # LRN
@@ -18,14 +18,15 @@ class Solution:
             
             # add gain from left subtree, note that if the gain is negative
             # we can ignore it or count as 0 hence max
-            gain_from_left = max(gainFromSubtree(node.left), 0)
+            max_left = max(gainFromSubtree(node.left), 0)
 
             # add the gain/path
-            gainFromRight = max(gainFromSubtree(node.right), 0)
+            max_right = max(gainFromSubtree(node.right), 0)
 
-            max_path = max(max_path, gain_from_left + gainFromRight + node.val)
+            max_path = max(max_path, max_right + max_left + node.val)
 
-            return max(gain_from_left + node.val, gainFromRight + node.val)
+            return node.val + max(max_left, max_right)
+            # we can't choose both, 
                 
         gainFromSubtree(root)
         return max_path       
