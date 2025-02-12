@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/regostar/leetcode_/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/regostar/leetcode_/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/regostar/leetcode_/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/regostar/leetcode_/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/regostar/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/regostar/leetcode_/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/regostar/leetcode_/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/regostar/leetcode_/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/regostar/leetcode_/tree/master/0053-maximum-subarray) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/regostar/leetcode_/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/regostar/leetcode_/tree/master/0071-simplify-path) |
 ## Monotonic Stack
