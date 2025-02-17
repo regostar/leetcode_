@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/regostar/leetcode_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/regostar/leetcode_/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/regostar/leetcode_/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/regostar/leetcode_/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/regostar/leetcode_/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/regostar/leetcode_/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/regostar/leetcode_/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/regostar/leetcode_/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/regostar/leetcode_/tree/master/0055-jump-game) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/regostar/leetcode_/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/regostar/leetcode_/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
 | [0252-meeting-rooms](https://github.com/regostar/leetcode_/tree/master/0252-meeting-rooms) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/regostar/leetcode_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/regostar/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/regostar/leetcode_/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
