@@ -20,7 +20,9 @@ class Solution:
                     return s[i+1:] == t[i:]
         
         # length is same but not matching taken care
-        # length is different == 1 
+        # length is different == 1 '
+        # we only iterted toll min(s_len, t_len) what if last element is different?
         return abs(s_len - t_len) == 1
+        # only 1 char is allowed to be different
 
         
