@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/regostar/leetcode_/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/regostar/leetcode_/tree/master/0680-valid-palindrome-ii) |
+| [1028-interval-list-intersections](https://github.com/regostar/leetcode_/tree/master/1028-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [0990-verifying-an-alien-dictionary](https://github.com/regostar/leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
+| [1028-interval-list-intersections](https://github.com/regostar/leetcode_/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/regostar/leetcode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/regostar/leetcode_/tree/master/0273-integer-to-english-words) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/regostar/leetcode_/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
