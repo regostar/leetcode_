@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0161-one-edit-distance](https://github.com/regostar/leetcode_/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/regostar/leetcode_/tree/master/0253-meeting-rooms-ii) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/regostar/leetcode_/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/regostar/leetcode_/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/regostar/leetcode_/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/regostar/leetcode_/tree/master/0273-integer-to-english-words) |
 ## Line Sweep
