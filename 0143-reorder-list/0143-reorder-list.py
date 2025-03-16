@@ -4,37 +4,25 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-
-    def reverseList(self, head: Optional[ListNode]) -> ListNode:
-        prev = None
-        curr = head
-        while curr:
-            temp = curr.next
-            curr.next = prev
-            prev = curr
-            curr = temp
-        return prev
-
     def reorderList(self, head: Optional[ListNode]) -> None:
-        # once we reach the middle of the list
-        # we reverse second part of list
-        # then we join the 2 lists
-        slow = head
-        if not head.next:
+        if not head:
             return
-        fast = head.next
+        slow = fast = head
+        # in 1->2->3->4->5->6 find 4
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
-        # now slow is the middle of the linked list
-        second_ll = slow.next
-        slow.next = None
-        second = self.reverseList(second_ll)
+        # now reverse the second part of the prob
+        prev = None
+        cur = slow
 
-        first = head
-        while second:
-            temp1, temp2 = first.next, second.next
-            first.next = second
-            second.next = temp1
-            first, second = temp1, temp2
+        # reverse in place
+        while cur:
+            cur.next, prev, cur = prev, cur, cur.next
+        
+        # merge 2 sorted lists
+        first, second = head, prev
+        while second.next:
+            first.next, first = second, first.next
+            second.next, second = first, second.next
