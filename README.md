@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/regostar/leetcode_/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/regostar/leetcode_/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0523-continuous-subarray-sum) |
+| [0670-maximum-swap](https://github.com/regostar/leetcode_/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/regostar/leetcode_/tree/master/1585-the-kth-factor-of-n) |
 ## Divide and Conquer
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/regostar/leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/regostar/leetcode_/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/regostar/leetcode_/tree/master/0680-valid-palindrome-ii) |
 | [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Counting
