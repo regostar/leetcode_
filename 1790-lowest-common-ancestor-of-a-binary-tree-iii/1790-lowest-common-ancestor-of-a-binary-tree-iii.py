@@ -8,28 +8,37 @@ Easy! Just find the one that is lower, and swim up until it's on the same height
 
 Boom - Same time complexity, but no funny hacks. Let's jump into the code -
 """
+
+
+def get_depth(node: TreeNode)-> int:
+    if not node:
+        return -1
+    return 1 + get_depth(node.parent)
+
+
+
+
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
         # Calculates how far a node is from the top
-        def distFromTop(n: 'Node') -> int:
-            if not n:
-                return -1
-            return 1 + distFromTop(n.parent)
 
-        pDistFromTop = distFromTop(p)
-        qDistFromTop = distFromTop(q)
+        depth_p = get_depth(p)
+        depth_q = get_depth(q)
 
-        # Make the lower node swim to the same height as the higher node 
-        while pDistFromTop > qDistFromTop:
-            p = p.parent
-            pDistFromTop -= 1
-        while qDistFromTop > pDistFromTop:
-            q = q.parent
-            qDistFromTop -= 1
+        if depth_p > depth_q:
+            # traverse up - from p until it reaches same level as q
+            while depth_p > depth_q:
+                p = p.parent
+                depth_p -= 1
+        else:
+            while depth_q > depth_p:
+                q = q.parent
+                depth_q -= 1
+        # now both are at same depth 
 
-        # p and q are on the same level, simply swim up one by one until they match
+        # traverse top at the same time
         while p != q:
-            p = p.parent
+            p = p.parent 
             q = q.parent
-
-        return p # p now equals q, they found the same parent
+        
+        return p
