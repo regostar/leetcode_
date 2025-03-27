@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/regostar/leetcode_/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/regostar/leetcode_/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/regostar/leetcode_/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/regostar/leetcode_/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/regostar/leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/regostar/leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0523-continuous-subarray-sum) |
