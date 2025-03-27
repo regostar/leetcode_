@@ -18,15 +18,15 @@ class Solution:
             # perform BFS
             while queue:
                 n = len(queue)
-                # for i in range(n):
-                col, node = queue.popleft()
-                column_elements[col].append(node.val)
+                for i in range(n):
+                    col, node = queue.popleft()
+                    column_elements[col].append(node.val)
 
-                # first ele from queue
-                if node.left:
-                    queue.append((col - 1, node.left))
-                if node.right:
-                    queue.append((col + 1, node.right))
+                    # first ele from queue
+                    if node.left:
+                        queue.append((col - 1, node.left))
+                    if node.right:
+                        queue.append((col + 1, node.right))
             
             # now convert the k - v to ordered list 
             indexes = sorted(column_elements.keys())
