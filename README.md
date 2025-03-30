@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/regostar/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/regostar/leetcode_/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/regostar/leetcode_/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/regostar/leetcode_/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/regostar/leetcode_/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
+| [0339-nested-list-weight-sum](https://github.com/regostar/leetcode_/tree/master/0339-nested-list-weight-sum) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
