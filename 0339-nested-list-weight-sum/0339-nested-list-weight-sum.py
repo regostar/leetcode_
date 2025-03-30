@@ -56,38 +56,38 @@ class Solution:
         
         # return dfs(nestedList, 1)
         
-        # queue = deque(nestedList)
-        # total = 0
-        # cur_depth = 1
-        # # print(queue[0].isInteger())
-
-        # while queue:
-        #     n = len(queue)
-        #     for i in range(n):
-        #         ele = queue.popleft()
-        #         print(ele)
-        #         if ele.isInteger():
-        #             total += cur_depth * ele.getInteger()
-        #         else:
-        #             # appenfd to Q
-        #             queue.append(ele.getList()[0])
-        #             print(" ele.getList()[0] = > ", ele.getList()[0])
-        #     cur_depth += 1
-        #     print("cur depth = ", cur_depth, " tot = ", total)
-        # return total
-
         queue = deque(nestedList)
-
-        depth = 1
         total = 0
+        cur_depth = 1
+        # print(queue[0].isInteger())
 
-        while len(queue) > 0:
-            for i in range(len(queue)):
-                nested = queue.pop()
-                if nested.isInteger():
-                    total += nested.getInteger() * depth
+        while queue:
+            n = len(queue)
+            for i in range(n):
+                ele = queue.popleft()
+                print(ele)
+                if ele.isInteger():
+                    total += cur_depth * ele.getInteger()
                 else:
-                    queue.extendleft(nested.getList())
-            depth += 1
-
+                    # appenfd to Q
+                    queue.extend(ele.getList())
+                    # print(" ele.getList()[0] = > ", ele.getList()[0])
+            cur_depth += 1
+            # print("cur depth = ", cur_depth, " tot = ", total)
         return total
+
+        # queue = deque(nestedList)
+
+        # depth = 1
+        # total = 0
+
+        # while len(queue) > 0:
+        #     for i in range(len(queue)):
+        #         nested = queue.popleft()
+        #         if nested.isInteger():
+        #             total += nested.getInteger() * depth
+        #         else:
+        #             queue.extendleft(nested.getList())
+        #     depth += 1
+
+        # return total
