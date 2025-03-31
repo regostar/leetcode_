@@ -531,5 +531,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/regostar/leetcode_/tree/master/0176-second-highest-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/regostar/leetcode_/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
