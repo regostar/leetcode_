@@ -30,9 +30,11 @@ class Solution:
             right_depth = dfs(node.right)
 
             max_depth = max(left_depth, right_depth) + 1
+            # because we count this node
             max_diameter = max(max_diameter, left_depth + right_depth)
             return max_depth
 
         dfs(root)
         return max_diameter
-        
+        # T -> O(n) -> visit each node once
+        # S -> O(h) -> height of tree - stack recursive size
