@@ -5,18 +5,34 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.max_diameter = 0
-
-    def depth(self, node: Optional[TreeNode]) -> int:
-        left = self.depth(node.left) if node.left else 0
-        right = self.depth(node.right) if node.right else 0
-        # save max diameter seen so far
-        self.max_diameter = max(self.max_diameter, left + right)
-        # return depth
-        return 1 + max(left, right)
-
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.depth(root)
-        return self.max_diameter
+        # basically find 2 nodes with max depth
+        # can the path be without root?
+        # lets say sub tree on left has very deep 2 branches
+        # we ignore the root
+        # from one node we find the depths through left sub tree
+        # depth of right sub tree
+        # compare it with max diameter we found
+        max_diameter = 0
+
+        def dfs(node: TreeNode)->int:
+            """
+            recursive 
+            Updates  the max internally
+            returns the max depth
+            # so that recursively we can check
+            """
+            if not node:
+                return 0
+            nonlocal max_diameter
+
+            left_depth = dfs(node.left)
+            right_depth = dfs(node.right)
+
+            max_depth = max(left_depth, right_depth) + 1
+            max_diameter = max(max_diameter, left_depth + right_depth)
+            return max_depth
+
+        dfs(root)
+        return max_diameter
         
