@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/regostar/leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/regostar/leetcode_/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
+| [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
 | [0523-continuous-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/regostar/leetcode_/tree/master/0304-range-sum-query-2d-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/regostar/leetcode_/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Binary Search Tree
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/regostar/leetcode_/tree/master/0176-second-highest-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/regostar/leetcode_/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
