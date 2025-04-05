@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0161-one-edit-distance](https://github.com/regostar/leetcode_/tree/master/0161-one-edit-distance) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/regostar/leetcode_/tree/master/0227-basic-calculator-ii) |
+| [0249-group-shifted-strings](https://github.com/regostar/leetcode_/tree/master/0249-group-shifted-strings) |
 | [0273-integer-to-english-words](https://github.com/regostar/leetcode_/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/regostar/leetcode_/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/regostar/leetcode_/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0249-group-shifted-strings](https://github.com/regostar/leetcode_/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/regostar/leetcode_/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/regostar/leetcode_/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
+| [0249-group-shifted-strings](https://github.com/regostar/leetcode_/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
