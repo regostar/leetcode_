@@ -19,12 +19,9 @@ class Solution:
             else:
                 # <= k
                 k -= arr[0] - 1
-        print("k = ", k)
         
         for i in range(1, len(arr)):
-            print("initial k = ", k)
             missing_nos = arr[i] - arr[i-1] - 1
-            print("arr[i-1] ", arr[i-1], "missing_nos = ", missing_nos)
             if missing_nos < k:
                 k -= missing_nos
             else:
