@@ -23,15 +23,15 @@ class Solution:
             # so that recursively we can check
             """
             if not node:
-                return 0
+                return -1
             nonlocal max_diameter
 
-            left_depth = dfs(node.left)
-            right_depth = dfs(node.right)
+            left_depth = 1 + dfs(node.left)
+            right_depth = 1 + dfs(node.right)
 
-            max_depth = max(left_depth, right_depth) + 1
+            max_depth = max(left_depth, right_depth)
             # because we count this node
-            max_diameter = max(max_diameter, left_depth + right_depth)
+            max_diameter = max(max_diameter,  left_depth + right_depth)
             return max_depth
 
         dfs(root)
