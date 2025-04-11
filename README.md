@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/regostar/leetcode_/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/regostar/leetcode_/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
+| [1069-confusing-number](https://github.com/regostar/leetcode_/tree/master/1069-confusing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/regostar/leetcode_/tree/master/1585-the-kth-factor-of-n) |
 ## Divide and Conquer
 |  |
