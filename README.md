@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/regostar/leetcode_/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
+| [0496-next-greater-element-i](https://github.com/regostar/leetcode_/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/regostar/leetcode_/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0383-ransom-note](https://github.com/regostar/leetcode_/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/regostar/leetcode_/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/regostar/leetcode_/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/regostar/leetcode_/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
@@ -491,12 +493,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/regostar/leetcode_/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/regostar/leetcode_/tree/master/0496-next-greater-element-i) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/regostar/leetcode_/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1909-buildings-with-an-ocean-view](https://github.com/regostar/leetcode_/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/regostar/leetcode_/tree/master/0496-next-greater-element-i) |
 | [1909-buildings-with-an-ocean-view](https://github.com/regostar/leetcode_/tree/master/1909-buildings-with-an-ocean-view) |
 ## Sliding Window
 |  |
