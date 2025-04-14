@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/regostar/leetcode_/tree/master/0146-lru-cache) |
 | [0304-range-sum-query-2d-immutable](https://github.com/regostar/leetcode_/tree/master/0304-range-sum-query-2d-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/regostar/leetcode_/tree/master/0346-moving-average-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/regostar/leetcode_/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
 | [0249-group-shifted-strings](https://github.com/regostar/leetcode_/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/regostar/leetcode_/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/regostar/leetcode_/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/regostar/leetcode_/tree/master/0146-lru-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/regostar/leetcode_/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Number Theory
 |  |
@@ -578,5 +581,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/regostar/leetcode_/tree/master/0146-lru-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/regostar/leetcode_/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 <!---LeetCode Topics End-->
