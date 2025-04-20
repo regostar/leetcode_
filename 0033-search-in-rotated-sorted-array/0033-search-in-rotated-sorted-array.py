@@ -28,11 +28,18 @@ class Solution:
             if nums[mid] == target:
                 return mid
             if nums[low] <= nums[mid]:
+                # lhs is sorted, no pivot
                 if target < nums[low] or target > nums[mid]:
+                    # we usually check 2nde condt. but since there 
+                    # can be a pivot in rhs, we check condt. 1 also
                     low = mid + 1
+                    # go to rhs
                 else:
+                    # go to lhs
                     high = mid - 1
             else:
+                # lhs has pivot 
+                # rhs is sorted
                 if target < nums[mid] or target > nums[high]:
                     high = mid - 1
                 else:
