@@ -23,4 +23,7 @@ class Solution:
         
         dfs(root, 0)
         return max_depth
+        # Time complexity is O(N)
+        # Space complexity is O(N) - recursion call stack
+        # best case - tree is balanced O(log(N)).
         
