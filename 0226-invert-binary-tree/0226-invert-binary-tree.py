@@ -7,14 +7,22 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         # left sub tree and right sub tree at every node must be interchanged
-        # recursive
-        # Time complexity - O(N)
+        # BFS using a queue
+        # iterative - queue
+        # O(N)
+        # when we pop from queue, swap left and right subtrees
         if not root:
             return None
+        queue = deque([root])
 
-        right = self.invertTree(root.right)
-        left = self.invertTree(root.left)
-        root.left = right
-        root.right = left
+        while queue:
+            node = queue.popleft()
+            # fifo
+            node.left, node.right = node.right, node.left
+
+            if node.left:
+                queue.append(node.left)
+            
+            if node.right:
+                queue.append(node.right)
         return root
-        
