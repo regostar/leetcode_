@@ -8,12 +8,13 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         # left sub tree and right sub tree at every node must be interchanged
         # recursive
+        # Time complexity - O(N)
         if not root:
             return None
-        temp = root.left
-        root.left = root.right
-        root.right = temp
-        self.invertTree(root.left)
-        self.invertTree(root.right)
+
+        right = self.invertTree(root.right)
+        left = self.invertTree(root.left)
+        root.left = right
+        root.right = left
         return root
         
