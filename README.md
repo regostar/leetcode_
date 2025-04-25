@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/regostar/leetcode_/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/regostar/leetcode_/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/regostar/leetcode_/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0161-one-edit-distance](https://github.com/regostar/leetcode_/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/regostar/leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/regostar/leetcode_/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/regostar/leetcode_/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/regostar/leetcode_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/regostar/leetcode_/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/regostar/leetcode_/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/regostar/leetcode_/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/regostar/leetcode_/tree/master/0120-triangle) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/regostar/leetcode_/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/regostar/leetcode_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/regostar/leetcode_/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/regostar/leetcode_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/regostar/leetcode_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/regostar/leetcode_/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/regostar/leetcode_/tree/master/0252-meeting-rooms) |
