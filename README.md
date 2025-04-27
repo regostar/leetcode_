@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/regostar/leetcode_/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/regostar/leetcode_/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/regostar/leetcode_/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/regostar/leetcode_/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
+| [0975-range-sum-of-bst](https://github.com/regostar/leetcode_/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/regostar/leetcode_/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/regostar/leetcode_/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/regostar/leetcode_/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0912-random-pick-with-weight](https://github.com/regostar/leetcode_/tree/master/0912-random-pick-with-weight) |
+| [0975-range-sum-of-bst](https://github.com/regostar/leetcode_/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/regostar/leetcode_/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/regostar/leetcode_/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/regostar/leetcode_/tree/master/1646-kth-missing-positive-number) |
