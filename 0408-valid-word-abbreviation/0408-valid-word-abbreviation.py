@@ -15,37 +15,35 @@ class Solution:
         # edge case - it cannot start with no
         
         # initialize both indexes
+        word_i = 0
         abbr_i = 0
-        str_i = 0
-        num = 0
-        num_started = False
-        start_char = None
 
-        while abbr_i < len(abbr) and str_i < len(word):
-            if abbr[abbr_i].isdigit():
-                num_started = True
+        while abbr_i < len(abbr) and word_i < len(word):
+            abbr_char = abbr[abbr_i]
+            # print(word_i, word[word_i], " and ", abbr_char)
+
+            if abbr_char.isalpha():
+                # just compare corr chars
+                if word[word_i] != abbr_char:
+                    return False
+                abbr_i += 1
+                word_i += 1
+            else:
+                # it's number - assumption
+                num = 0
                 while abbr_i < len(abbr) and abbr[abbr_i].isdigit():
-                    num = num * 10 + int(abbr[abbr_i])
+                    num = num *10 + int(abbr[abbr_i])
                     if num == 0:
                         return False
                     abbr_i += 1
                 
-                # now check with the word
-                while num > 0:
-                    if str_i >= len(word):
-                        return False
-                    str_i += 1
-                    num -= 1
-
-            else:
-                # traverse both
-                if word[str_i] != abbr[abbr_i]:
+                # print("word ", word_i, word[word_i], " num = ", num)
+                # now check word
+                if word_i + num > len(word):
                     return False
-                abbr_i += 1
-                str_i += 1
+                word_i += num
 
-        if abbr_i < len(abbr) or str_i < len(word):
+        if abbr_i < len(abbr) or word_i < len(word):
             return False
         return True
 
-        
