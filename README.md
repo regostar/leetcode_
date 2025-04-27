@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/regostar/leetcode_/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/regostar/leetcode_/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/regostar/leetcode_/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/regostar/leetcode_/tree/master/0227-basic-calculator-ii) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/regostar/leetcode_/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/regostar/leetcode_/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/regostar/leetcode_/tree/master/0273-integer-to-english-words) |
