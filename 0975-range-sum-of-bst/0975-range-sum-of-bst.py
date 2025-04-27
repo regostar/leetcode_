@@ -9,17 +9,18 @@ class Solution:
         # consider as binary tree
         # simply do DFS
         ans = 0
-        stack = [root]
-        while stack:
-            node = stack.pop()
-            if node:
-                if low <= node.val <= high:
-                    ans += node.val
-                # can we go to left subtree
-                # yes if node val is not lesser than low
-                if node.val > low:
-                    stack.append(node.left)
-                if node.val < high:
-                    stack.append(node.right)
+
+        def dfs(node: Optional[TreeNode]):
+            nonlocal ans
+
+            if not node:
+                return
+            if low <= node.val <= high:
+                ans += node.val
+            if node.val > low:
+                dfs(node.left)
+            if node.val < high:
+                dfs(node.right)
+        dfs(root)
         return ans
         
