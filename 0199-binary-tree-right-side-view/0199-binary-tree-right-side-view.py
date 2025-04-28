@@ -6,23 +6,22 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        # Perform a level order traversal and get the first element of each level
+        # BFS - save last element 
         if not root:
             return []
-        q = deque()
-        q.append(root)
-        res = []
-        while q:
-            # now while level order traversal we only need the first element
-            # i = 
-            en = len(q) - 1
-            for i in range(len(q)):
-                node = q.popleft()
-                if i == en:
-                    res.append(node.val)
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-        return res
- 
+        queue = deque([root])
+        result = []
+        while queue:
+            n = len(queue)
+            for i in range(n):
+                ele = queue.popleft()
+                if i == n - 1:
+                    result.append(ele.val)
+                if ele.left:
+                    queue.append(ele.left)
+                if ele.right:
+                    queue.append(ele.right)
+        
+        return result
+            
+        
