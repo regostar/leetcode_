@@ -1,17 +1,37 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
-        n = len(heights)
-        answer = []
-        max_height = -1
+        # n buildings
+        # n heights
+        # rightside ocean
+        # ocean view - building to right are smaller
+        # indices (0) having ocean view
+        # Clarifications
+        # 0 height ? yes
+        # no -ve heights
+        # no buildins []
+
+        # for every building we need the max building on the right
+        # compare it with max
+        # we have the ans
+        # max till here from right let's precompute
+        # [3,3,1,0]
+        # 0 2 3
+        max_from_right = [0 for _ in range(len(heights))]
+
+        # edge case empty arr
+        if not heights:
+            return []
+
+        for i in range(len(heights)-2, -1, -1):
+            # traverse from right
+            max_from_right[i] = max(max_from_right[i+1], heights[i+1])
+
+        print(max_from_right)
+        result = []
+        for i in range(len(heights)):
+            if heights[i] > max_from_right[i]:
+                result.append(i)
         
-        for current in reversed(range(n)):
-            # If there is no building higher (or equal) than the current one to its right,
-            # push it in the answer array.
-            if max_height < heights[current]:
-                answer.append(current)
-            
-                # Update max building till now.
-                max_height = heights[current]
-        
-        answer.reverse()
-        return answer
+        return result
+
+
