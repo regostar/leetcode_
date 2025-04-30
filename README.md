@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/regostar/leetcode_/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/regostar/leetcode_/tree/master/0146-lru-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/regostar/leetcode_/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/regostar/leetcode_/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Number Theory
 |  |
 | ------- |
