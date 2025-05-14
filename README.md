@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/regostar/leetcode_/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1909-buildings-with-an-ocean-view](https://github.com/regostar/leetcode_/tree/master/1909-buildings-with-an-ocean-view) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/regostar/leetcode_/tree/master/1127-last-stone-weight) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Data Stream
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/regostar/leetcode_/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/regostar/leetcode_/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/regostar/leetcode_/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/regostar/leetcode_/tree/master/0680-valid-palindrome-ii) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Counting
 |  |
@@ -581,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/regostar/leetcode_/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/regostar/leetcode_/tree/master/0054-spiral-matrix) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Memoization
 |  |
 | ------- |
