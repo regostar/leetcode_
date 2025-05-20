@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/regostar/leetcode_/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/regostar/leetcode_/tree/master/0975-range-sum-of-bst) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
 | [0990-verifying-an-alien-dictionary](https://github.com/regostar/leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/regostar/leetcode_/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/regostar/leetcode_/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/regostar/leetcode_/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/regostar/leetcode_/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/regostar/leetcode_/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/regostar/leetcode_/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/regostar/leetcode_/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0990-verifying-an-alien-dictionary](https://github.com/regostar/leetcode_/tree/master/0990-verifying-an-alien-dictionary) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/regostar/leetcode_/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/regostar/leetcode_/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/regostar/leetcode_/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/regostar/leetcode_/tree/master/0200-number-of-islands) |
+| [0999-regions-cut-by-slashes](https://github.com/regostar/leetcode_/tree/master/0999-regions-cut-by-slashes) |
 ## Stack
 |  |
 | ------- |
