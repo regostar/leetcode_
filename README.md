@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/regostar/leetcode_/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1909-buildings-with-an-ocean-view](https://github.com/regostar/leetcode_/tree/master/1909-buildings-with-an-ocean-view) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/regostar/leetcode_/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2354-minimum-health-to-beat-game](https://github.com/regostar/leetcode_/tree/master/2354-minimum-health-to-beat-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/regostar/leetcode_/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/regostar/leetcode_/tree/master/0680-valid-palindrome-ii) |
+| [2354-minimum-health-to-beat-game](https://github.com/regostar/leetcode_/tree/master/2354-minimum-health-to-beat-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/regostar/leetcode_/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/regostar/leetcode_/tree/master/2487-optimal-partition-of-string) |
 ## Counting
