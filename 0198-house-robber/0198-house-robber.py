@@ -1,24 +1,16 @@
 class Solution:
-
     def rob(self, nums: List[int]) -> int:
-
-        # Special handling for empty case.
-        if not nums:
-            return 0
-
-        N = len(nums)
-
-        rob_next_plus_one = 0
-        rob_next = nums[N - 1]
-
-        # DP table calculations.
-        for i in range(N - 2, -1, -1):
-
-            # Same as recursive solution.
-            current = max(rob_next, rob_next_plus_one + nums[i])
-
-            # Update the variables
-            rob_next_plus_one = rob_next
-            rob_next = current
-
-        return rob_next
+        # 10 100 10 100 100
+        # greedy approach
+        # O (n) time 
+        # all > 0? yes
+        # how long is this ? <= 100
+        # we can use extra space
+        
+        for i in range(1, len(nums)):
+            if i == 1:
+                nums[i] = max(nums[i], nums[i-1])
+            else:
+                nums[i] = max(nums[i] + nums[i-2], nums[i-1])
+        
+        return nums[-1]
