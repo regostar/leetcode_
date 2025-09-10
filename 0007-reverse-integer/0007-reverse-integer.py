@@ -21,6 +21,6 @@ class Solution:
 
         rev *= sign
         # (Optional safety net) final range check:
-        if rev < INT_MIN or rev > INT_MAX:
+        if rev < INT_MIN:
             return 0
         return rev
