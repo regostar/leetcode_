@@ -1,30 +1,26 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        # Define the 32-bit signed integer range
-        INT_MIN, INT_MAX = -2**31, 2**31 - 1
-        
-        # Initialize a variable to store the reversed number
-        result = 0
-        
-        # Determine the sign of the input number
-        sign = 1 if x > 0 else -1
-        
-        # Work with the absolute value of x
+        INT_MIN, INT_MAX = -2**31, 2**31 - 1  # [-2147483648, 2147483647]
+
+        sign = 1 if x >= 0 else -1
         x = abs(x)
-        
-        # Reverse the digits
-        while x != 0:
-                        
-            # Check for overflow
-            if result > INT_MAX - x:
-                return 0
-            # Extract the last digit
+
+        rev = 0
+        # For negatives, we may allow the final last digit to be 8 (…3648 → -2147483648)
+        last_digit_limit = 7 if sign == 1 else 8
+
+        while x:
             digit = x % 10
-            # Append the digit to the reversed number
-            result = result * 10 + digit
-            # Remove the last digit from x
+
+            # Pre-check: will rev*10 + digit overflow?
+            if rev > INT_MAX // 10 or (rev == INT_MAX // 10 and digit > last_digit_limit):
+                return 0
+
+            rev = rev * 10 + digit
             x //= 10
 
-        
-        # Apply the sign to the result and return
-        return sign * result if INT_MIN <= sign * result <= INT_MAX else 0
+        rev *= sign
+        # (Optional safety net) final range check:
+        if rev < INT_MIN or rev > INT_MAX:
+            return 0
+        return rev
