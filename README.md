@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/regostar/leetcode_/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/regostar/leetcode_/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/regostar/leetcode_/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/regostar/leetcode_/tree/master/0374-guess-number-higher-or-lower) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/regostar/leetcode_/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/regostar/leetcode_/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/regostar/leetcode_/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -645,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/regostar/leetcode_/tree/master/2324-find-triangular-sum-of-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/regostar/leetcode_/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
