@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/regostar/leetcode_/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/regostar/leetcode_/tree/master/1236-n-th-tribonacci-number) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
 ## Tree
 |  |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/regostar/leetcode_/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/regostar/leetcode_/tree/master/1014-k-closest-points-to-origin) |
 | [1069-confusing-number](https://github.com/regostar/leetcode_/tree/master/1069-confusing-number) |
+| [1236-n-th-tribonacci-number](https://github.com/regostar/leetcode_/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/regostar/leetcode_/tree/master/1585-the-kth-factor-of-n) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/regostar/leetcode_/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/regostar/leetcode_/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/regostar/leetcode_/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/regostar/leetcode_/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
