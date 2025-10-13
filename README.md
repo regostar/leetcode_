@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/regostar/leetcode_/tree/master/0322-coin-change) |
 | [0552-student-attendance-record-ii](https://github.com/regostar/leetcode_/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/regostar/leetcode_/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/regostar/leetcode_/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/regostar/leetcode_/tree/master/1236-n-th-tribonacci-number) |
 | [2340-total-appeal-of-a-string](https://github.com/regostar/leetcode_/tree/master/2340-total-appeal-of-a-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/regostar/leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/regostar/leetcode_/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/regostar/leetcode_/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/regostar/leetcode_/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-random-pick-with-weight](https://github.com/regostar/leetcode_/tree/master/0912-random-pick-with-weight) |
 | [0967-minimum-falling-path-sum](https://github.com/regostar/leetcode_/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/regostar/leetcode_/tree/master/0971-shortest-bridge) |
