@@ -1,17 +1,23 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        # bottom up
-
-        # The array's length should be 1 longer than the length of cost
-        # This is because we can treat the "top floor" as a step to reach
-        min_cost = [0] * (len(cost) + 1)
-
-        # start from step 2
-        # cost for step 1 or 2 is 0
-        # 1 2 3 4 5
-        for i in range(2, len(cost) + 1):
-            take_one_step = min_cost[i-1] + cost[i-1]
-            take_two_steps = min_cost[i-2] + cost[i-2]
-            min_cost[i] = min(take_one_step, take_two_steps)
+        # top down
+        # recursive
+        # end to start
+        # memoize the results computed
+        def recursive_find_min_cost(step: int)->int:
+            # base cases - 
+            if step <= 1:
+                return 0
+            if step in results:
+                return results[step]
+            # recursive case -
+            min_cost_to_reach_n_1 = cost[step - 1] + recursive_find_min_cost(step - 1)
+            min_cost_to_reach_n_2 = cost[step - 2] + recursive_find_min_cost(step - 2)
+            results[step] = min(min_cost_to_reach_n_1, min_cost_to_reach_n_2)
+            return results[step] 
         
-        return min_cost[-1]
+        results = {}
+        # can use arrays or dict
+        # arrays more efficient
+        n = len(cost)
+        return recursive_find_min_cost(n )
