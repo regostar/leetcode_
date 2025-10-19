@@ -27,6 +27,7 @@ class Solution:
             if nums[mid] > nums[mid+1]:
                 # go towards left
                 high = mid
+                # a peak must exist at mid or to the left of mid
             else:
                 low = mid + 1
         
