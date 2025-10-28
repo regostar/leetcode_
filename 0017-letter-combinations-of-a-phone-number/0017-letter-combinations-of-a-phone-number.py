@@ -1,24 +1,37 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        res = []
-        digits_to_char = { '2': "abc", 
-            '3': "def", 
-            '4': "ghi", 
-            '5': "jkl", 
-            '6': "mno", 
-            '7': "pqrs", 
-            '8': "tuv", 
-            '9': "wxyz"
-            }
-        def back_track(i, cur_str):
-            if len(cur_str) == len(digits):
-                res.append(cur_str)
-                return
-            for c in digits_to_char[digits[i]]:
-                back_track(i + 1, cur_str + c)
-                # need to take one of them for sure
-        if digits:
-            back_track(0, "")
-        return res
+        # result option len is len oif digits str
+        # 1 is not given
+        # max digits str len = 4
+        # 4^4 max => m^n
+        #  backtracking
+        if len(digits) == 0:
+            return []
         
+        letters = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz",
+        }
+
+        def backtrack(index, path):
+            if len(path) == len(digits):
+                combos.append("".join(path))
+                return
+                
+            possible_letters = letters[digits[index]]
+            for letter in possible_letters:
+                path.append(letter)
+                backtrack(index+1, path)
+                path.pop()
+                # backtrack by removing the letter before moving onto the next 
+
+        combos = []
+        backtrack(0, [])
+        return combos
         
